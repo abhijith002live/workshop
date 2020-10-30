@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+/* Display */
 void gantdisp(int gant[10][2],int n)
 {
 	for(int i=0;i<n;i++)
